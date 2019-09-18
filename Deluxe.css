@@ -57,8 +57,9 @@ header a:hover{
     font-weight: bold;
 }
 
-#alltext p{
+#alltext div{
     font-size: 16px;
+    padding: 10px;
 }
 
 
@@ -87,7 +88,7 @@ header a:hover{
     color: white;
     background: maroon;
 }
-#newsletter p{
+#newsletter div{
     font-size: 30px;
 }
 
