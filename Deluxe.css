@@ -111,9 +111,12 @@ footer {
 
 #showcaseboka{
     min-height: 400px;
-    background-image: url("lambobil.jpg");
+    background: url("carstree.jpg")no-repeat;
     text-align: center;
     color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #showcaseboka h1{
