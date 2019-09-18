@@ -87,6 +87,9 @@ header a:hover{
     color: white;
     background: maroon;
 }
+#newsletter p{
+    font-size: 20px;
+}
 
 #newletter h1{
     float: left;
