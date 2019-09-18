@@ -133,9 +133,12 @@ footer {
 
 #showcasepriser{
     min-height: 400px;
-    background-image: url("lambobil.jpg");
+    background-image: url("Bilparkering1.jpg");
     text-align: center;
     color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #showcasepriser h1{
@@ -152,9 +155,12 @@ footer {
 
 #showcaseomoss{
     min-height: 400px;
-    background-image: url("lambobil.jpg");
+    background-image: url("questionmark.jpg");
     text-align: center;
     color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #showcaseomoss h1{
@@ -171,9 +177,12 @@ footer {
 
 #showcasekontakt{
     min-height: 400px;
-    background-image: url("lambobil.jpg");
+    background-image: url("kontaktaoss.jpg");
     text-align: center;
-    color: white;
+    color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #showcasekontakt h1{
