@@ -71,9 +71,9 @@ header a:hover{
     color: white;
 }
 
-#showcasestart h1{
+#showcasestart h2{
     margin-top: 45px;
-    font-size: 55px;
+    font-size: 50px;
     margin-bottom: 10px;
 }
 
@@ -92,7 +92,7 @@ header a:hover{
     font-size: 30px;
 }
 
-#newletter h1{
+#newletter h4{
     float: left;
 }
 
@@ -122,9 +122,9 @@ footer {
     background-size: cover;
 }
 
-#showcaseboka h1{
+#showcaseboka h2{
     margin-top: 45px;
-    font-size: 55px;
+    font-size: 50px;
     margin-bottom: 10px;
 }
 
