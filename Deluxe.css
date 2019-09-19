@@ -197,3 +197,23 @@ footer {
 #showcasekontakt p{
     font-size: 20px;
 }
+
+#showcaseuppgift{
+    min-height: 400px;
+    background-image: url("kontaktaoss.jpg");
+    text-align: center;
+    color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#showcaseuppgift h2{
+    margin-top: 45px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#showcaseuppgift p{
+    font-size: 20px;
+}
