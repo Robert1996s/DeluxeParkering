@@ -57,12 +57,10 @@ header a:hover{
     font-weight: bold;
 }
 
-#alltext div{
-    font-size: 16px;
-    padding: 10px;
+.bokning {
+    text-align: center;
+    padding: 20px;
 }
-
-
 
 #showcasestart{
     min-height: 400px;
@@ -128,6 +126,16 @@ footer {
     margin-bottom: 10px;
 }
 
+.text_input {
+    padding: 10px 20px;
+}
+
+.button_boka {
+    padding: 15px 32px;
+}
+
+
+
 #showcaseboka p{
     font-size: 20px;
 }
@@ -152,6 +160,23 @@ footer {
 
 #showcasepriser p{
     font-size: 20px;
+}
+
+table{
+    font-family: arial, sansserif;
+    border-collapse: collapse;
+    width: 60%;
+    margin-bottom: 15px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
 
 /*----------------------------------------*/
